@@ -70,7 +70,5 @@ This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md
 
 - Thanks to [NetData](https://github.com/netdata/netdata) for their comprehensive data collection tools.
 - Shout out to the ESP8266 community for their resources and support.
-- 
-- 
 - **This project is forked from the [routermonitor](https://gitee.com/dannylsl/routermonitor) project.**
 
